@@ -14,10 +14,14 @@ To begin using Predis.ai, follow these steps:
 1. **Create an Account:**
    - Visit the Predis.ai homepage.
    - Click "Sign Up" and complete the registration process by providing your email and setting up a password.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai1.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai2.png)
 
 2. **Dashboard Overview:**
    - After logging in, you’ll land on the dashboard, where you can access features like Content Library, Content Calendar, and Competitor Analysis.
    - The dashboard displays account details, goal-setting options, and links to tools such as "Competitor Analysis" and "Idea Lab."
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai3.png)
+
 
 ### Linking Social Media Accounts
 
@@ -26,6 +30,8 @@ To fully utilize Predis.ai, link your social media accounts:
 1. Navigate to "Brand & Social Accounts."
 2. Select platforms to connect, such as Instagram, Facebook, or LinkedIn.
 3. Follow the authorization prompts to enable access.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai11.png)
+
 
 ---
 
@@ -42,6 +48,8 @@ Predis.ai offers diverse content types to meet various needs:
 5. **Special Day:** Posts tailored for occasions.
 
 Choose from canvas sizes like Portrait, Square, or Landscape to fit your post requirements.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai4.png)
+
 
 ### AI-Powered Content Generation
 
@@ -51,6 +59,12 @@ Leverage the AI capabilities of Predis.ai:
 2. Input a content idea or description, such as "Create a promotional post for Tesla’s electric car launch."
 3. Select a preferred template style and the number of variants.
 4. Click "Generate" to produce the post.
+
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai5.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai6.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai7.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai9.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai8.png)
 
 The platform uses your prompts to create content, including captions, visuals, and headlines tailored to your input.
 
@@ -73,6 +87,8 @@ The Content Library is a repository for all your generated posts, offering:
 - Previews of posts.
 - Options to edit, publish, or download.
 - Easy access to captions, templates, and visuals.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai14.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai15.png)
 
 ### Content Calendar
 
@@ -81,6 +97,7 @@ Streamline your posting schedule using the Content Calendar:
 1. Navigate to the "Content Calendar" tab.
 2. Click a date to schedule content.
 3. Drag and drop posts to rearrange them on the calendar.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai10.png)
 
 ---
 
@@ -92,6 +109,8 @@ Gain insights into industry trends and strategies with Competitor Analysis:
 
 - Identify high-performing content.
 - Benchmark your posts against competitors.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai16.png)
+
 
 ### Idea Lab
 
@@ -100,6 +119,8 @@ Use the Idea Lab to generate creative content ideas, including:
 - Social media post suggestions.
 - Attention-grabbing ad copy.
 - Tailored content calendars.
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai17.png)
+   ![Predis Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Predis.ai18.png)
 
 ### Auto-Posting
 
