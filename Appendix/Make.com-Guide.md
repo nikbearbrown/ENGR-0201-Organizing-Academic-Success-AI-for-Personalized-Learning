@@ -3,6 +3,9 @@
 ## **Introduction**
 Make.com is a no-code automation platform that allows users to create, manage, and automate workflows between various applications and services. With a visual drag-and-drop interface, Make.com enables businesses and individuals to streamline processes, reduce manual work, and enhance productivity without requiring coding skills.
 
+ ![image](https://github.com/user-attachments/assets/84a7b3e8-f32c-48ec-accc-32542ee35768)
+
+
 ---
 
 ## **What is Make.com?**
@@ -71,19 +74,22 @@ Make.com caters to:
 
 ### **Getting Started**
 1. Visit [Make.com](https://www.make.com/) and create an account.  
-   ![Make.com Homepage](images/make-homepage.png)
+    ![image](https://github.com/user-attachments/assets/483e0e13-bcef-4e7c-aaf6-a3679f606ee8)
+
 
 2. Click **"Create a new scenario"** and select the apps you want to integrate.  
-   ![Creating a new scenario](images/make-create-scenario.png)
+   ! ![image](https://github.com/user-attachments/assets/33bca1ab-a9d5-4a04-86e3-323e531bf8af)
+
 
 3. Drag and drop modules to define actions and triggers.  
-   ![Workflow Builder](images/make-drag-drop.png)
+   ![image](https://github.com/user-attachments/assets/23bf52ae-1599-49fa-97a7-531f74450ea2)
+
 
 4. Configure each module with the necessary details.  
-   ![Configuring a module](images/make-configure-module.png)
+
 
 5. Test the workflow and activate it.  
-   ![Running a scenario](images/make-run-scenario.png)
+
 
 ### **Building a Custom Automation**
 1. Select a trigger (e.g., "New email in Gmail").  
@@ -129,7 +135,8 @@ Make.com caters to:
    - Multi-user collaboration.
 
 Visit the [Make.com Pricing Page](https://www.make.com/en/pricing) for details.  
-![Pricing Plans](images/make-pricing.png)
+ ![image](https://github.com/user-attachments/assets/4de0eabd-cbb2-4a52-bc3a-5d35ebf641e4)
+
 
 ---
 
