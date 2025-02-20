@@ -75,26 +75,34 @@ HeyGen is designed for:
 
 ### **Getting Started**
 1. Visit [HeyGen](https://www.heygen.com/) and create an account.  
-   ![HeyGen Homepage](images/heygen-homepage.png)
+    ![image](https://github.com/user-attachments/assets/396ddb18-8d06-4957-b8fa-a47f4c6da117)
+
+
+    ![image](https://github.com/user-attachments/assets/fd357ef2-610b-4939-99af-5d2dbe4b10de)
+
 
 2. Choose **“Create a Video”** to start a new project.  
-   ![Creating a new video](images/heygen-create-video.png)
+   ![image](https://github.com/user-attachments/assets/481c8428-a811-4cc6-a516-85ad2c0d4b2b)
+
 
 3. Select an **AI avatar** or create a **custom avatar**.  
-   ![Avatar Selection](images/heygen-avatar-selection.png)
+   ![image](https://github.com/user-attachments/assets/f0959965-8d3a-4deb-84ff-40438345d132)
+
 
 4. Enter a **text script** for the avatar to speak.  
-   ![Text-to-video input](images/heygen-text-input.png)
+   ![image](https://github.com/user-attachments/assets/02a2b914-00f8-41bf-897d-52f6c476de6c)
+
 
 5. Select a **template** or design your layout.  
-   ![Video Template Selection](images/heygen-template-selection.png)
+   ![image](https://github.com/user-attachments/assets/5cc7e731-2f52-45ed-a306-f7f2a222a86e)
+
 
 6. Choose a **voice and language**.  
    - Enable **lip-syncing** for accurate speech-to-avatar animation.  
-   ![Voice and Language Selection](images/heygen-voice-selection.png)
+   
 
 7. **Preview & Export** your AI-generated video.  
-   ![Video Export](images/heygen-export.png)
+
 
 ---
 
@@ -132,7 +140,8 @@ HeyGen is designed for:
    - API automation access.  
 
 Visit the [HeyGen Pricing Page](https://www.heygen.com/pricing) for full details.  
-![Pricing Plans](images/heygen-pricing.png)
+   ![image](https://github.com/user-attachments/assets/9ce412e6-ac13-4d2c-8a3b-83e6b173727a)
+
 
 ---
 
@@ -159,26 +168,3 @@ This guide is for informational purposes. HeyGen services are subject to their [
 HeyGen is a **powerful AI-powered video creation tool** that makes professional-quality videos accessible to **marketers, educators, and businesses**. Whether you need an **automated explainer video**, a **personalized sales video**, or **multilingual content**, HeyGen helps **save time, reduce costs, and scale video production effortlessly**.
 
 ---
-
-## **Screenshots Summary**
-| Screenshot | Description |
-|------------|-------------|
-| ![HeyGen Homepage](images/heygen-homepage.png) | HeyGen platform homepage |
-| ![Creating a new video](images/heygen-create-video.png) | Starting a new AI video |
-| ![Avatar Selection](images/heygen-avatar-selection.png) | Selecting AI-generated avatars |
-| ![Text-to-video input](images/heygen-text-input.png) | Entering a script for AI speech |
-| ![Video Template Selection](images/heygen-template-selection.png) | Choosing video templates |
-| ![Voice and Language Selection](images/heygen-voice-selection.png) | Setting voice & language options |
-| ![Video Export](images/heygen-export.png) | Exporting the final video |
-| ![Pricing Plans](images/heygen-pricing.png) | Pricing plans overview |
-
----
-
-## **How to Use This Guide**
-- **Follow the step-by-step guide** to create your first AI video.
-- **Use screenshots** to navigate the platform.
-- **Apply tips & best practices** for professional-looking videos.
-
----
-
-This **HeyGen guide** is structured to be easy to follow, with screenshots to make navigation simple. Let me know if you need any refinements! 🚀🎬
