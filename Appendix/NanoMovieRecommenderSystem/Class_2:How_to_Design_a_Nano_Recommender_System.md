@@ -1,4 +1,6 @@
 # Class 2: How to Design a Nano Recommender System
+Course Link: [https://freaxruby.notion.site/Nano-Movie-Recommender-System-Freax-Ruby-1829520a6b49805e8c4be6a4c862d6e9?pvs=4](https://www.notion.so/Nano-Movie-Recommender-System-Freax-Ruby-1829520a6b49805e8c4be6a4c862d6e9?pvs=21)
+
 ### **Introduction**
 
 Hello everyone, welcome to the second class! In the previous lesson, we introduced the basic concepts of recommender systems and their common types. Today, we will learn how to design a **Nano Recommender System**.

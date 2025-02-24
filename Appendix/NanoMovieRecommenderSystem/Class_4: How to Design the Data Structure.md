@@ -1,4 +1,5 @@
 # Class 4: How to Design the Data Structure
+Course Link: [https://freaxruby.notion.site/Nano-Movie-Recommender-System-Freax-Ruby-1829520a6b49805e8c4be6a4c862d6e9?pvs=4](https://www.notion.so/Nano-Movie-Recommender-System-Freax-Ruby-1829520a6b49805e8c4be6a4c862d6e9?pvs=21)
 
 ### **Introduction: What is JSON?**
 
