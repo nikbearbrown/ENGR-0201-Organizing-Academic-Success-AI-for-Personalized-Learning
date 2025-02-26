@@ -52,6 +52,8 @@ HiveSpark is a **cloud-based web application** and does not require installation
 
 1. **Visit the website**: [HiveSpark.io](http://hivespark.io)
 2. **Sign up or log in** to access the dashboard.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark1.png)
+
 
 ---
 
@@ -60,6 +62,8 @@ HiveSpark is a **cloud-based web application** and does not require installation
 ### **Step 1: Account Setup**
 - **New Users:** Sign up by entering **Full Name, Email, and Password**.
 - **Existing Users:** Click **Sign In Instead** and enter login credentials.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark2.png)
+
 
 ### **Step 2: Company Profile Setup**
 1. Enter **Company Name** (e.g., "ABC Corp.").
@@ -67,6 +71,9 @@ HiveSpark is a **cloud-based web application** and does not require installation
 3. Choose **Company Stage** (Idea, Testing, Growth, Maturity).
 4. Select **Industry** (Technology, Finance, Healthcare, etc.).
 5. Click **Next** to continue.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark3.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark4.png)
+
 
 ### **Step 3: Navigating the Dashboard**
 The dashboard displays:
@@ -74,6 +81,12 @@ The dashboard displays:
 - **Words Generated** – AI-written content amount.
 - **Time Saved** – Hours saved using AI automation.
 - **Money Saved** – Estimated cost savings.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark5.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark6.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark7.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark8.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark9.png)
+
 
 ### **Step 4: Using AI Tools**
 1. **Generate Business Ideas** – Input your startup concept and receive AI-generated ideas.
@@ -81,11 +94,18 @@ The dashboard displays:
 3. **Conduct Market Research** – Analyze competitors, trends, and customer demographics.
 4. **Develop a Pricing Strategy** – Optimize pricing models, tiers, and SaaS pricing.
 5. **Raise Capital** – Create investor pitch decks, fundraising strategies, and valuations.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark12.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark13.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark15.png)
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark16.png)
+
+
 
 ### **Step 5: Managing Your Work**
 - **Request History** – Track and manage AI-generated insights.
 - **Exporting Results** – Save reports as Google Docs for further editing.
 - **Upgrade Subscription** – Choose a plan based on business needs.
+![Hivespark Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Hivespark14.png)
 
 ---
 
