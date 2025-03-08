@@ -10,6 +10,7 @@
 🔗 **Register Now (It’s Free!):** [https://northeastern.instructure.com/enroll/8CXY86](https://northeastern.instructure.com/enroll/8CXY86)  
 
 Take advantage of this **free opportunity** to enhance your academic and professional skills with **ENGR 0201: Personalized AI for Learning!** This course empowers you to **leverage AI** for organizing study materials, creating personalized learning strategies, and improving collaboration on projects.  
+
 🎓 **Earn a Digital Badge/Certificate Upon Completion!**  
 
 ---
