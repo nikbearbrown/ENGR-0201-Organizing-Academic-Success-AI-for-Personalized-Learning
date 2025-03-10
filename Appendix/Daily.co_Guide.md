@@ -1,7 +1,7 @@
-# **Daily AI Platform Guide**
+# **Daily.co Guide**
 
 ## **Introduction**
-The **Daily AI** platform provides a scalable, open-source solution for building **voice AI agents**. It offers SDKs, real-time processing, and a sandbox environment for testing and deploying AI bots. This guide provides a comprehensive overview, including setup, features, use cases, advantages, disadvantages, best practices, troubleshooting, and future possibilities.
+The **Daily.co** platform provides a scalable, open-source solution for building **voice AI agents**. It offers SDKs, real-time processing, and a sandbox environment for testing and deploying AI bots. This guide provides a comprehensive overview, including setup, features, use cases, advantages, disadvantages, best practices, troubleshooting, and future possibilities.
 
 ---
 
