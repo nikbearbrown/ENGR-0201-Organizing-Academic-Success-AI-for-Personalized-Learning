@@ -1,5 +1,5 @@
 
-# ENGR-0201: Organizing Academic Success: AI for Personalized Learning with Clause  
+# ENGR-0201: Organizing Academic Success: AI for Personalized Learning with Claude  
 
 ![Course Banner](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/a5a87895af4b2ac781a5eeb9df884655c07a545d/ENGR_0201/umddofnwzoy.png)  
 
