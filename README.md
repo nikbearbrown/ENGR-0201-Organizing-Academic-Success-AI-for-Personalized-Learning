@@ -22,6 +22,10 @@ Take advantage of this free opportunity to enhance your academic and professiona
 🔬 **Labs:** Five hands-on labs + final project required for badge certification.  
 🤝 **TA Office Hours:** Five TAs offering 2 hours/week each for lab support.  
 
+## Strategic partnership with Anthropic
+
+Monday, March 17th, the university will announce a strategic partnership with Anthropic, which will immediately provide Claude enterprise licenses for all Faculty, Students, and Staff.
+
 ## **Workshop Schedule (1-hour per session)**
 
 ### **Week 1: Claude 3.7 Sonnet and Hybrid Reasoning**
