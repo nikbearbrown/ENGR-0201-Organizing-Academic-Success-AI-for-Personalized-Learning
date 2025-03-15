@@ -1,7 +1,7 @@
 
 # ENGR-0201: Organizing Academic Success: AI for Personalized Learning with Claude  
 
-![Course Banner](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/a5a87895af4b2ac781a5eeb9df884655c07a545d/ENGR_0201/umddofnwzoy.png)  
+![Course Banner](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)  
 
 ### **Transform Your Learning with AI – ENGR 0201 (Free Course + Certificate!)**  
 **📢 Open to All Northeastern Students & Staff**  
