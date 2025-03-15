@@ -135,6 +135,10 @@ By the end of this series, participants will:
 ![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)  
 
 
+## Links
+
+[![Huumanitarians AI](https://raw.githubusercontent.com/nikbearbrown/Humanitarians_AI/refs/heads/main/Art/Abhishek.png)](https://www.youtube.com/watch?v=feVnLBHuOAw)
+
 ### License  
 
 This repository is licensed under [MIT License](LICENSE).  
