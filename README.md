@@ -96,7 +96,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Workshop 5: AI-Powered Ideation with Claude 3.7 Sonnet Enterprise, Midjourney & Runway
+### Workshop 5: AI-Powered Ideation with Claude 3.7 Sonnet Enterprise, Midjourney & Runway
 
 * **Introduction to AI-Powered Ideation Through Multimodal Content (15 min)**
    * Overview of ideation workflows combining Claude 3.7 Sonnet Enterprise (concept development), Midjourney (visual ideation), and Runway (motion concept exploration)
