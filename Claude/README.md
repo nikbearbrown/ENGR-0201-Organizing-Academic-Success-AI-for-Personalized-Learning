@@ -23,6 +23,59 @@ The theoretical foundation of hybrid reasoning draws from both cognitive science
 - Self-monitoring reasoning processes
 - Adapting strategies based on task demands
 
+# Hybrid Reasoning Exercises: Standard vs. Extended Thinking Mode
+
+These exercises will help you experience the differences between Claude 3.7 Sonnet's Standard and Extended Thinking modes. Each exercise demonstrates how the same problem can be approached differently depending on which mode is activated.
+
+## Exercise 1: Probability Calculation (3 minutes)
+**Prompt:** "In a group of 25 people, what is the probability that at least two share a birthday?"
+
+**Standard Mode approach:** Calculate using the Birthday Paradox formula with a quick explanation.
+**Extended Thinking approach:** Work through each step systematically, showing the mathematical derivation, calculating the exact probability, and verifying the result.
+
+## Exercise 2: Logic Puzzle Analysis (3 minutes)
+**Prompt:** "If all roses have thorns, and some flowers are roses, can we conclude that some flowers have thorns?"
+
+**Standard Mode approach:** Apply basic syllogistic reasoning to determine validity.
+**Extended Thinking approach:** Analyze the logical structure using formal notation, identify the logical form, check for fallacies, and evaluate potential real-world exceptions.
+
+## Exercise 3: Investment Decision (3 minutes)
+**Prompt:** "Should I invest $10,000 in tech stocks or bonds right now?"
+
+**Standard Mode approach:** Provide general considerations for both options.
+**Extended Thinking approach:** Create a decision matrix evaluating multiple factors (risk tolerance, time horizon, economic indicators), analyze historical performance data, and consider portfolio diversification strategies.
+
+## Exercise 4: Code Optimization (3 minutes)
+**Prompt:** "Optimize this function that finds the nth Fibonacci number: 
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+```"
+
+**Standard Mode approach:** Implement basic memoization to improve performance.
+**Extended Thinking approach:** Compare multiple optimization strategies (recursion with memoization, dynamic programming, matrix exponentiation, closed-form solution), analyze time/space complexity, and benchmark performance for different input sizes.
+
+## Exercise 5: Ethical Dilemma (3 minutes)
+**Prompt:** "Is it ethical for AI systems to make medical diagnoses without human oversight?"
+
+**Standard Mode approach:** Present key arguments for and against AI autonomy in healthcare.
+**Extended Thinking approach:** Analyze through multiple ethical frameworks (consequentialism, deontology, virtue ethics), consider stakeholder impacts, examine different levels of autonomy, and evaluate technical limitations against potential benefits.
+
+## Exercise Completion:
+For each exercise:
+1. Read the prompt
+2. Consider how you would approach it in both modes
+3. Compare your approach to the descriptions provided
+4. Reflect on which mode would be more appropriate for the given context
+
+These exercises illustrate when to use each mode:
+- Use Standard Mode for time-sensitive questions, creative ideation, and straightforward analysis
+- Use Extended Thinking Mode for complex problems requiring rigorous analysis, multiple perspectives, or when accuracy is critical
+
+What did you notice about the differences between the two modes? When would you choose one over the other in your own problem-solving?
+
 ### Cognitive Foundations of Hybrid Reasoning
 
 The dual-process theory, pioneered by psychologists like Daniel Kahneman and Amos Tversky, distinguishes between two types of thinking:
