@@ -24,6 +24,7 @@ The theoretical foundation of hybrid reasoning draws from both cognitive science
 - Adapting strategies based on task demands
 
 ## Hybrid Reasoning Exercises: Standard vs. Extended Thinking Mode
+___If you do one thing do these exercises_
 
 These exercises will help you experience the differences between Claude 3.7 Sonnet's Standard and Extended Thinking modes. Each exercise demonstrates how the same problem can be approached differently depending on which mode is activated.
 
