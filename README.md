@@ -40,8 +40,13 @@ Monday, March 17th, the university will announce a strategic partnership with An
   - Practice queries with Standard mode
   - Complex problem-solving using Extended Thinking mode
   - Discussion on best-use scenarios
+ 
+Claude Workshop One -- Slides and Code
 
-Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)   
+Workshop One: Claude 3.7 Sonnet and Hybrid Reasoning 
+[https://www.beautiful.ai/player/-OLPiv-q0B8QTQDiMTlG/ENGR0201-Week-1-Claude-37-Sonnet-and-Hybrid-Reasoning](https://www.beautiful.ai/player/-OLPiv-q0B8QTQDiMTlG/ENGR0201-Week-1-Claude-37-Sonnet-and-Hybrid-Reasoning)     
+
+Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)    
 
 ---
 
