@@ -28,7 +28,7 @@ Monday, March 17th, the university will announce a strategic partnership with An
 
 ## **Workshop Schedule (1-hour per session)**
 
-### **Week 1: Claude 3.7 Sonnet and Hybrid Reasoning**
+### **Workshop 1: Claude 3.7 Sonnet and Hybrid Reasoning**
 - **Introduction to Claude 3.7 Sonnet (15 min)**
   - What is hybrid reasoning?
   - Standard vs. Extended Thinking modes
@@ -50,7 +50,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Week 2: Claude Code for Developers**
+### **Workshop 2: Claude Code for Developers**
 - **Introduction to Claude Code (15 min)**
   - Differences between Claude Code and browser-based Claude
   - Terminal integration and workflow benefits
@@ -65,7 +65,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Week 3: Claude Enterprise for Education**
+### **Workshop 3: Claude Enterprise for Education**
 - **Introduction to Claude Enterprise (15 min)**
   - AI for academic success: key features for education
   - Privacy controls and student data security
@@ -80,7 +80,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Week 4: Best Practices and Advanced Techniques**
+### **Workshop 4: Best Practices and Advanced Techniques**
 - **Managing Model Agency (15 min)**
   - Setting boundaries for AI decision-making
   - Techniques for guiding AI responses effectively
@@ -96,18 +96,23 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Week 5: Image and Video Generation with Midjourney & Runway**
-- **Introduction to AI-Generated Media (15 min)**
-  - Overview of Midjourney (image generation) and Runway (video synthesis)
-  - Ethical considerations and best practices
-- **Demonstration: Creative AI in Action (20 min)**
-  - Generating images with Midjourney
-  - Creating and editing AI-generated videos with Runway
-- **Hands-on Exercise: Content Creation (25 min)**
-  - Crafting prompts for Midjourney
-  - Experimenting with video synthesis in Runway
-  - Applying AI-generated visuals in academic and professional work
+### **Workshop 5: AI-Powered Ideation with Claude 3.7 Sonnet Enterprise, Midjourney & Runway
 
+* **Introduction to AI-Powered Ideation Through Multimodal Content (15 min)**
+   * Overview of ideation workflows combining Claude 3.7 Sonnet Enterprise (concept development), Midjourney (visual ideation), and Runway (motion concept exploration)
+   * Ethical considerations and best practices for responsible ideation
+
+* **Demonstration: Integrated Ideation Workflows (20 min)**
+   * Using Claude 3.7 Sonnet Enterprise to develop and refine creative concepts
+   * Translating concepts into visual explorations with Midjourney
+   * Expanding ideas into motion and narrative using Runway
+   * Demonstrating feedback loops between tools for iterative ideation
+
+* **Hands-on Exercise: Multi-dimensional Ideation (25 min)**
+   * Starting with concept generation in Claude 3.7 Sonnet Enterprise
+   * Crafting effective prompts to visualize concepts in Midjourney
+   * Extending ideation into motion and time with Runway
+   * Workshop: Applying this integrated ideation approach to academic research, product development, and professional projects
 ---
 
 ## **Workshop Materials & Resources**
@@ -115,7 +120,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 - Claude Enterprise access (provided by the university)
 - Claude Code installation (for coding sessions)
 - Basic understanding of prompt engineering
-- Midjourney and Runway accounts (for Week 5)
+- Midjourney and Runway accounts (forWorkshop 5)
 
 ### **Takeaway Resources**
 - Prompt engineering templates
