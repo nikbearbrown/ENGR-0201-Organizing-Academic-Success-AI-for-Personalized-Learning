@@ -4,52 +4,8 @@
 
 Large Language Models function by recognizing patterns in language. These systems learn how words typically fit together by analyzing vast amounts of text data from books, articles, and conversations. They don't truly understand meaning as humans do, but they recognize patterns so well they can predict which words should follow others, creating coherent text that appears meaningful.
 
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/emetroftibn.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/oaeffrdiouc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vezffqfcbyj.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zjrosasyhyz.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
 [![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/avayqzocgkm.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/faebzxtwulk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/qwzrvaauqlh.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vqdjknlapse.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zkrtfhnjijy.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/bpyrxbinpzk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/fveeebzhjfx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rapvezftbxo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vwvfswppdot.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/cadkcevawjx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/idcxebnouhr.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rynfdjfbarc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/xmbogydnitp.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/crndnujhuvf.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/moercvvhgeu.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/ulktwqspxlb.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zixxsvophpo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
 ## From Code to Conversation: A New Paradigm
 
@@ -60,6 +16,9 @@ Unlike traditional programming languages that require absolute precision with ev
 **Prompt engineering**, by contrast, uses natural language—the words we use in everyday conversation—to guide AI systems. Rather than defining every possible action through rigid syntax, we describe what we want in plain language, and the model interprets and responds accordingly.
 
 It's the difference between constructing a detailed blueprint that specifies every element of a structure versus describing the building you want to see and having it materialize based on your description.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 ## The Craft of Clear Communication
 
@@ -72,6 +31,9 @@ When crafting prompts, think of yourself as a writer communicating with a reader
 One of the most effective techniques in prompt engineering is using examples. Showing the model what you want rather than just telling it dramatically improves results. Examples provide concrete patterns for the model to follow, reducing ambiguity and increasing precision.
 
 For instance, instead of simply asking for "a professional email," you might provide a partial example that demonstrates the tone and structure you're seeking. The model can then pattern-match based on your example to generate similar content.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/emetroftibn.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 ## Prompt Patterns: The Writer's Toolkit for AI Communication
 
@@ -93,6 +55,9 @@ The model will then adopt characteristics associated with Austen's perspective�
 
 **Why it works:** By providing a well-defined persona, you give the model specific constraints and characteristics to emulate, resulting in more consistent, targeted responses.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/oaeffrdiouc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 #### The Template Pattern: Architectural Structure for Thoughts
 
 James Joyce's "Ulysses" follows a precise structure modeled after Homer's "Odyssey," with each chapter employing different literary techniques to achieve specific effects. Similarly, the Template Pattern provides a framework that organizes the model's response.
@@ -108,6 +73,9 @@ James Joyce's "Ulysses" follows a precise structure modeled after Homer's "Odyss
 4. Finally, recommend a path forward with specific action steps"
 
 **Why it works:** Templates reduce ambiguity about what information to include and how to organize it, resulting in more focused, useful responses.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vezffqfcbyj.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 #### The Flipped Interaction Pattern: Socratic Dialogue
 
@@ -133,6 +101,9 @@ Edgar Allan Poe described his method for writing "The Raven" in "The Philosophy 
 
 **Why it works:** Breaking complex processes into discrete, ordered steps creates clarity and ensures nothing important is overlooked.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zjrosasyhyz.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 ### Advanced Prompt Patterns
 
 As you become more proficient with basic prompt patterns, you can explore more sophisticated techniques that address complex communication challenges. These advanced patterns offer additional tools for your prompt engineering toolkit.
@@ -148,6 +119,9 @@ Game designers, like writers, create structured experiences with rules, objectiv
 "Let's play a game of 'Conceptual Connections.' I'll give you two seemingly unrelated concepts (e.g., 'quantum physics' and 'social media'), and you'll create four increasingly insightful connections between them, scoring points for creativity and depth. For each connection, explain why it's valid and how it helps us understand both concepts better. Ready to play?"
 
 **Why it works:** Game structures tap into intrinsic motivation, making complex analytical tasks more engaging while providing clear parameters for the AI's response.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/faebzxtwulk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 #### The Meta Language Creation Pattern: Specialized Communication Systems
 
@@ -172,6 +146,9 @@ Writers like Rashomon's Akutagawa or Virginia Woolf often present multiple persp
 "Channel F. Scott Fitzgerald's ability to hold contradictory ideas simultaneously, and provide three fundamentally different approaches to addressing climate change: one market-based, one regulatory, and one cultural/behavioral. For each approach, explore its unique strengths, limitations, and underlying assumptions without immediately judging which is best."
 
 **Why it works:** Examining multiple approaches prevents fixation on a single solution path and reveals insights that might be missed from a more limited perspective.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/qwzrvaauqlh.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 #### The Ask for Input Pattern: Collaborative Problem-Solving
 
@@ -201,6 +178,9 @@ Writers often begin with outlines before developing full manuscripts. E.L. Docto
 
 **Why it works:** Starting with structure before details ensures coherent organization while allowing for systematic development of complex ideas.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vqdjknlapse.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 #### The Fact Check List Pattern: Ensuring Accuracy and Nuance
 
 Journalists and non-fiction writers like Katherine Boo or Michael Lewis are meticulous about factual accuracy while acknowledging areas of uncertainty. The Fact Check List Pattern brings this journalistic rigor to AI interactions.
@@ -217,6 +197,9 @@ Journalists and non-fiction writers like Katherine Boo or Michael Lewis are meti
 For each section, cite specific examples and explain your categorization reasoning."
 
 **Why it works:** This pattern creates clarity about the reliability of different information, preventing the conflation of established facts with speculation or errors.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zkrtfhnjijy.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 ## Prompting for Claude: Working with a Hybrid Reasoning Model
 
@@ -239,6 +222,9 @@ Nobel Prize-winning author Daniel Kahneman distinguishes between "System 1" (fas
 "Before answering whether this business strategy will succeed, please think step by step through the relevant factors, considering market conditions, competitive landscape, resource requirements, and potential obstacles. Like George Eliot's careful moral reasoning, walk through each consideration explicitly before reaching your conclusion."
 
 **Why it works:** Requesting explicit reasoning steps helps Claude organize its analysis more systematically and reduces the likelihood of overlooking important factors.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/bpyrxbinpzk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 #### The Balanced Analysis Pattern: Engaging Multiple Reasoning Modes
 
@@ -272,6 +258,9 @@ Please continue this chain of reasoning for 5 more steps, exploring the deeper t
 
 **Why it works:** This pattern encourages Claude to follow logical connections more extensively, resulting in deeper analysis of complex topics.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/fveeebzhjfx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 #### The Cognitive Tool Selection Pattern: Choosing the Right Thinking Approach
 
 Zadie Smith has discussed how she deliberately chooses different narrative techniques based on what each story needs. Similarly, we can prompt Claude to select and apply the most appropriate cognitive tools for different problems.
@@ -301,6 +290,11 @@ Great editors like Maxwell Perkins (who worked with Hemingway and Fitzgerald) he
 3. Finally, provide a revised, more refined evaluation based on this reflection."
 
 **Why it works:** This pattern mimics the critical reflection process of careful writing and editing, leading to more nuanced and balanced outputs.
+
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rapvezftbxo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 
 ### Practical Tips for Working with Claude's Hybrid Reasoning
 
@@ -336,6 +330,9 @@ Just as writers hone their craft through deliberate practice, prompt engineers i
 
 **Your Exercise:** Take a concept you understand well and create a prompt that asks for an explanation tailored to a specific audience (e.g., elementary school students, industry professionals, seniors learning technology). Be specific about the audience's characteristics, knowledge level, and needs.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vwvfswppdot.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 ### 3. Flipped Interaction Pattern Exercise
 
 **Definition:** This pattern reverses the traditional question-answer dynamic by having the AI ask questions that guide your thinking process, similar to Socratic teaching methods.
@@ -351,6 +348,9 @@ Just as writers hone their craft through deliberate practice, prompt engineers i
 **Example:** "Let's play 'Concept Evolution.' Start with the basic concept of 'democracy' and evolve it through 5 rounds, each adding complexity and nuance. In each round, introduce one new aspect or perspective that transforms our understanding of the concept. Award points for historical accuracy, philosophical depth, and practical implications."
 
 **Your Exercise:** Create a game-based prompt to explore a topic you want to learn more about. Define clear rules, scoring mechanisms, and win conditions. Consider how the game structure might reveal new insights or make learning more engaging.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rynfdjfbarc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 ### 5. Template Pattern Exercise
 
@@ -379,6 +379,8 @@ Using this notation, analyze the following case study of a project team, explain
 
 **Your Exercise:** For a domain you're familiar with, create a prompt that asks Claude to develop and then use a specialized notation or terminology system. Specify what kinds of concepts need representation and how the shorthand might be used for analysis.
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/cadkcevawjx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 ### 7. Recipe Pattern Exercise
 
 **Definition:** This pattern requests step-by-step instructions with specific ordering, details, and contingencies, similar to a cooking recipe.
@@ -401,6 +403,11 @@ Using this notation, analyze the following case study of a project team, explain
 
 **Your Exercise:** Select a problem or challenge you're facing and create a prompt that asks for multiple distinct approaches to solving it. Specify the types of approaches you'd like to see (e.g., based on different disciplines, philosophical frameworks, or resource requirements).
 
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/idcxebnouhr.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
+
 ### 9. Ask for Input Pattern Exercise
 
 **Definition:** This pattern creates a more interactive exchange by having the AI request specific information from you to tailor its response more effectively.
@@ -420,6 +427,9 @@ Using this notation, analyze the following case study of a project team, explain
 4. For the most promising approach identified, develop a detailed section on implementation strategies"
 
 **Your Exercise:** Choose a complex topic you'd like to explore in depth. Create a prompt that asks Claude to begin with a simple outline and progressively expand it with increasing levels of detail, following your specifications for what aspects deserve deeper exploration.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/xmbogydnitp.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 ### 11. Menu Actions Pattern Exercise
 
@@ -447,6 +457,11 @@ I'll respond with my selection number."
 
 **Your Exercise:** Select a topic relevant to your interests where distinguishing fact from fiction is important. Create a prompt requesting a fact-checking framework with clearly defined categories for different levels of certainty and evidence.
 
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/crndnujhuvf.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
+
 ### 13. Tail Generation Pattern Exercise
 
 **Definition:** This pattern adds conversation continuity by appending questions or suggestions at the end of AI outputs to maintain engagement.
@@ -466,6 +481,8 @@ I'll respond with my selection number."
 - Emphasizes concrete benefits related to focus and emotional regulation"
 
 **Your Exercise:** Identify a topic where specific filters or constraints would improve the relevance and usefulness of information. Create a prompt that clearly defines the semantic filters you want applied to Claude's response.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/moercvvhgeu.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
 ### 15. Helpful Assistant Pattern Exercise
 
@@ -488,6 +505,9 @@ Similarly, effective prompt engineering often involves combining patterns. You m
 3. Next, evaluate the logical flow between paragraphs
 4. Finally, suggest improvements using a step-by-step revision plan (Recipe Pattern)"
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/ulktwqspxlb.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
 ## Benefits of Effective Prompt Engineering
 
 Mastering prompt engineering unlocks numerous advantages:
@@ -505,3 +525,8 @@ Learning prompt engineering is similar to developing any writing skill. It begin
 As you develop this skill, you'll find yourself able to guide language models with increasing precision, turning these powerful systems from interesting novelties into valuable tools that extend your capabilities and enhance your work.
 
 Remember that effective prompting combines technical understanding with creative communication—a uniquely human skill that bridges the gap between our natural language and the computational processes of artificial intelligence.
+
+
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zixxsvophpo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
