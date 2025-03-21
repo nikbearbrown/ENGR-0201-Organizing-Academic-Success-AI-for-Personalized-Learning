@@ -4,7 +4,7 @@
 
 Large Language Models function by recognizing patterns in language. These systems learn how words typically fit together by analyzing vast amounts of text data from books, articles, and conversations. They don't truly understand meaning as humans do, but they recognize patterns so well they can predict which words should follow others, creating coherent text that appears meaningful.
 
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/avayqzocgkm.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/faebzxtwulk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
 
 ## From Code to Conversation: A New Paradigm
@@ -120,7 +120,7 @@ Game designers, like writers, create structured experiences with rules, objectiv
 
 **Why it works:** Game structures tap into intrinsic motivation, making complex analytical tasks more engaging while providing clear parameters for the AI's response.
 
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/faebzxtwulk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/avayqzocgkm.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
 
 #### The Meta Language Creation Pattern: Specialized Communication Systems
