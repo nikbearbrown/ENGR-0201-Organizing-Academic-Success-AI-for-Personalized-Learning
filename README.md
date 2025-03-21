@@ -48,7 +48,9 @@ Workshop One: Claude 3.7 Sonnet and Hybrid Reasoning
 
 Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)    
 
-I'd be happy to develop Workshop 2 on effective prompting! Based on your workshop schedule, I'll create a comprehensive plan for a 1-hour session focused on prompting techniques for Claude.
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 
 # Workshop 2: Effective Prompting for Claude
 
@@ -71,31 +73,7 @@ This hands-on workshop teaches participants how to craft effective prompts to ma
   - Exercise 2: Pattern application to real scenarios
   - Exercise 3: Task-specific prompting
   - Exercise 4: Building a personal prompt library
-# Workshop 2: Effective Prompting for Claude
 
-## Workshop Outline (1-hour session)
-
-### Introduction to Effective Prompting (15 min)
-- What makes a good prompt?
-- Understanding Claude's capabilities and limitations
-- Key principles: specificity, clarity, structure, and iteration
-- Different prompting strategies for different tasks
-
-### Demonstration: Prompting Techniques in Action (20 min)
-- Before/after examples of prompts for common use cases:
-  - Content creation
-  - Information extraction
-  - Problem-solving
-  - Code generation
-- Analyzing why certain approaches work better than others
-
-### Hands-on Exercise: Crafting Effective Prompts (25 min)
-- Practical prompt construction for different scenarios
-- Peer review and improvement of prompts
-- Testing prompts and analyzing results
-- Creating a personal prompt library for future use
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
 
 ### **Workshop 3: Claude Code for Developers**
