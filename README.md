@@ -48,9 +48,57 @@ Workshop One: Claude 3.7 Sonnet and Hybrid Reasoning
 
 Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)    
 
----
+I'd be happy to develop Workshop 2 on effective prompting! Based on your workshop schedule, I'll create a comprehensive plan for a 1-hour session focused on prompting techniques for Claude.
 
-### **Workshop 2: Claude Code for Developers**
+# Workshop 2: Effective Prompting for Claude
+
+This hands-on workshop teaches participants how to craft effective prompts to maximize Claude's capabilities. Starting with fundamental prompting principles, participants will learn about Claude's hybrid reasoning approach and how to leverage it effectively. The workshop introduces key prompt patterns including Persona, Template, Recipe, Explicit Reasoning, Alternative Approaches, and Reflection patterns through practical demonstrations and before/after examples. Participants will practice transforming vague queries into well-structured prompts, applying different patterns to real-world scenarios, and building a personal prompt library for future use. By the end of this session, attendees will have practical skills to significantly improve their interactions with Claude across various tasks including content creation, information analysis, problem-solving, and learning.
+
+## Workshop Outline:
+
+- **Introduction to Effective Prompting (15 min)**
+  - Core principles: clarity, structure, context, examples, iteration
+  - Understanding Claude's hybrid reasoning capabilities
+  - The difference between traditional programming and prompt engineering
+
+- **Demonstration: Prompt Patterns in Action (20 min)**
+  - Basic patterns: Persona, Template, Recipe
+  - Advanced patterns: Explicit Reasoning, Alternative Approaches, Reflection
+  - Before/after examples for common use cases
+
+- **Hands-on Exercise: Crafting Effective Prompts (25 min)**
+  - Exercise 1: Basic prompt transformation
+  - Exercise 2: Pattern application to real scenarios
+  - Exercise 3: Task-specific prompting
+  - Exercise 4: Building a personal prompt library
+# Workshop 2: Effective Prompting for Claude
+
+## Workshop Outline (1-hour session)
+
+### Introduction to Effective Prompting (15 min)
+- What makes a good prompt?
+- Understanding Claude's capabilities and limitations
+- Key principles: specificity, clarity, structure, and iteration
+- Different prompting strategies for different tasks
+
+### Demonstration: Prompting Techniques in Action (20 min)
+- Before/after examples of prompts for common use cases:
+  - Content creation
+  - Information extraction
+  - Problem-solving
+  - Code generation
+- Analyzing why certain approaches work better than others
+
+### Hands-on Exercise: Crafting Effective Prompts (25 min)
+- Practical prompt construction for different scenarios
+- Peer review and improvement of prompts
+- Testing prompts and analyzing results
+- Creating a personal prompt library for future use
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+
+### **Workshop 3: Claude Code for Developers**
 - **Introduction to Claude Code (15 min)**
   - Differences between Claude Code and browser-based Claude
   - Terminal integration and workflow benefits
@@ -65,7 +113,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Workshop 3: Claude Enterprise for Education**
+### **Workshop 4: Claude Enterprise for Education**
 - **Introduction to Claude Enterprise (15 min)**
   - AI for academic success: key features for education
   - Privacy controls and student data security
@@ -80,7 +128,7 @@ Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/n
 
 ---
 
-### **Workshop 4: Best Practices and Advanced Techniques**
+### **Workshop 5: Best Practices and Advanced Techniques**
 - **Managing Model Agency (15 min)**
   - Setting boundaries for AI decision-making
   - Techniques for guiding AI responses effectively
