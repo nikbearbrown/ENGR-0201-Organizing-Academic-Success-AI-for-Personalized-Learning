@@ -7,6 +7,50 @@ Large Language Models function by recognizing patterns in language. These system
 
 [![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
 
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/emetroftibn.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/oaeffrdiouc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vezffqfcbyj.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zjrosasyhyz.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/avayqzocgkm.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/faebzxtwulk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/qwzrvaauqlh.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vqdjknlapse.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zkrtfhnjijy.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/bpyrxbinpzk.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/fveeebzhjfx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rapvezftbxo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/vwvfswppdot.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/cadkcevawjx.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/idcxebnouhr.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/rynfdjfbarc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/xmbogydnitp.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/crndnujhuvf.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/moercvvhgeu.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/ulktwqspxlb.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/zixxsvophpo.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
 ## From Code to Conversation: A New Paradigm
 
 Unlike traditional programming languages that require absolute precision with every symbol and command, prompt engineering offers a revolutionary approach to human-computer interaction. 
