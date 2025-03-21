@@ -1,184 +1,202 @@
+Here’s your content, consistently formatted and polished for clarity and flow, while preserving the original structure and energy:
 
-# ENGR-0201: Organizing Academic Success: AI for Personalized Learning with Claude  
+---
 
-![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)  
+# **ENGR-0201: Organizing Academic Success – AI for Personalized Learning with Claude**
 
-### **Transform Your Learning with AI – ENGR 0201 (Free Course + Certificate!)**  
-**📢 Open to All Northeastern Students & Staff**  
+![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)
 
-🔗 **Register Now (It’s Free!):** [https://northeastern.instructure.com/enroll/8CXY86](https://northeastern.instructure.com/enroll/8CXY86)  
-# ENGR0201: Organizing Academic Success: AI for Personalized Learning with Claude
+##  **Transform Your Learning with AI – ENGR 0201 (Free Course + Certificate!)**
 
+**Open to All Northeastern Students & Staff**  
+**Earn a Digital Badge/Certificate Upon Completion!**
 
-Take advantage of this free opportunity to enhance your academic and professional skills with **ENGR 0201: Personalized AI for Learning with Claude!** This course empowers you to leverage AI for organizing study materials, creating personalized learning strategies, and improving collaboration on projects.
+🔗 **Register Now (It’s Free!):** [https://northeastern.instructure.com/enroll/8CXY86](https://northeastern.instructure.com/enroll/8CXY86)
 
-🎓 **Earn a Digital Badge/Certificate Upon Completion!**
+---
 
-## Course Details:
-📅 **Duration:** March 15 – April 19, 2025
-📍 **Modality:** Live Zoom sessions (recordings available)  
-🎓 **Eligibility:** Open to all Northeastern students & staff  
-📚 **Lecture:** Saturdays, 3-4 PM (EST) via Zoom  
-🔬 **Labs:** Five hands-on labs + final project required for badge certification.  
-🤝 **TA Office Hours:** Five TAs offering 2 hours/week each for lab support.  
+## **Course Overview**
 
-## Strategic partnership with Anthropic
+Take advantage of this **free** opportunity to enhance your academic and professional skills through **ENGR 0201: Personalized AI for Learning with Claude**. This course empowers you to:
 
-Monday, March 17th, the university will announce a strategic partnership with Anthropic, which will immediately provide Claude enterprise licenses for all Faculty, Students, and Staff.
+- Organize study materials
+- Create personalized learning strategies
+- Collaborate more effectively on projects
 
-## **Workshop Schedule (1-hour per session)**
+---
 
-### **Workshop 1: Claude 3.7 Sonnet and Hybrid Reasoning**
+### 🗓️ **Course Details**
+
+- **Duration:** March 15 – April 19, 2025  
+- **Modality:** Live Zoom sessions (recordings available)  
+- **Lecture:** Saturdays, 3–4 PM EST  
+- **Labs:** Five hands-on labs + final project required for certification  
+- **Eligibility:** Open to all Northeastern students & staff  
+- **TA Support:** Five TAs available, 2 hours/week each
+
+---
+
+## Strategic Partnership with Anthropic
+
+On **Monday, March 17**, Northeastern will announce a strategic partnership with **Anthropic**, granting **Claude Enterprise licenses** to all Faculty, Students, and Staff.
+
+---
+
+# **Workshop Series (1-Hour Sessions Unless Noted)**
+
+---
+
+## **Workshop 1: Claude 3.7 Sonnet and Hybrid Reasoning**
+
 - **Introduction to Claude 3.7 Sonnet (15 min)**
   - What is hybrid reasoning?
   - Standard vs. Extended Thinking modes
-  - Real-world applications and optimal use cases
-- **Demonstration: Experiencing Hybrid Reasoning (20 min)**
-  - Showcasing Standard mode vs. Extended Thinking mode
-  - Comparing responses for the same prompt
-- **Hands-on Exercise: Leveraging Hybrid Reasoning (25 min)**
-  - Practice queries with Standard mode
-  - Complex problem-solving using Extended Thinking mode
-  - Discussion on best-use scenarios
- 
-Claude Workshop One -- Slides and Code
+  - Real-world applications
 
-Workshop One: Claude 3.7 Sonnet and Hybrid Reasoning 
-[https://www.beautiful.ai/player/-OLPiv-q0B8QTQDiMTlG/ENGR0201-Week-1-Claude-37-Sonnet-and-Hybrid-Reasoning](https://www.beautiful.ai/player/-OLPiv-q0B8QTQDiMTlG/ENGR0201-Week-1-Claude-37-Sonnet-and-Hybrid-Reasoning)     
+- **Demonstration (20 min)**
+  - Comparing Standard vs. Extended Thinking
+  - Prompt response analysis
 
-Workshop One Claude 3.7 Sonnet and Hybrid Reasoning Lesson [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)    
+- **Hands-On Exercise (25 min)**
+  - Practice queries using both modes
+  - Problem-solving + use case discussion
 
-
-[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
-
-
-# Workshop 2: Effective Prompting for Claude
-
-This hands-on workshop teaches participants how to craft effective prompts to maximize Claude's capabilities. Starting with fundamental prompting principles, participants will learn about Claude's hybrid reasoning approach and how to leverage it effectively. The workshop introduces key prompt patterns including Persona, Template, Recipe, Explicit Reasoning, Alternative Approaches, and Reflection patterns through practical demonstrations and before/after examples. Participants will practice transforming vague queries into well-structured prompts, applying different patterns to real-world scenarios, and building a personal prompt library for future use. By the end of this session, attendees will have practical skills to significantly improve their interactions with Claude across various tasks including content creation, information analysis, problem-solving, and learning.
-
-## Workshop Outline:
-
-- **Introduction to Effective Prompting (15 min)**
-  - Core principles: clarity, structure, context, examples, iteration
-  - Understanding Claude's hybrid reasoning capabilities
-  - The difference between traditional programming and prompt engineering
-
-- **Demonstration: Prompt Patterns in Action (20 min)**
-  - Basic patterns: Persona, Template, Recipe
-  - Advanced patterns: Explicit Reasoning, Alternative Approaches, Reflection
-  - Before/after examples for common use cases
-
-- **Hands-on Exercise: Crafting Effective Prompts (25 min)**
-  - Exercise 1: Basic prompt transformation
-  - Exercise 2: Pattern application to real scenarios
-  - Exercise 3: Task-specific prompting
-  - Exercise 4: Building a personal prompt library
-
-
-
-### **Workshop 3: Claude Code for Developers**
-- **Introduction to Claude Code (15 min)**
-  - Differences between Claude Code and browser-based Claude
-  - Terminal integration and workflow benefits
-  - Efficiency strategies and cost considerations
-- **Demonstration: Claude Code in Action (20 min)**
-  - Setting up Claude Code in the terminal
-  - Basic commands and code navigation
-- **Hands-on Exercise: Exploring Claude Code (25 min)**
-  - Understanding an unfamiliar codebase
-  - Implementing and debugging code
-  - Version control basics (commits, branches, PRs)
+🔗 **Slides & Code:**  
+[Beautiful.ai Presentation](https://www.beautiful.ai/player/-OLPiv-q0B8QTQDiMTlG/ENGR0201-Week-1-Claude-37-Sonnet-and-Hybrid-Reasoning)  
+[GitHub Materials](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/tree/main/Claude)
 
 ---
 
-### **Workshop 4: Claude Enterprise for Education**
-- **Introduction to Claude Enterprise (15 min)**
-  - AI for academic success: key features for education
-  - Privacy controls and student data security
-  - Integration with learning platforms (LMS, Google Classroom, Microsoft Teams)
-- **Case Studies: AI in Education (20 min)**
-  - Real-world applications in universities and schools
-  - Learning improvements and engagement metrics
-- **Discussion: Implementation Strategies (25 min)**
-  - Identifying high-impact use cases
-  - Building an adoption roadmap for faculty and students
-  - Managing costs and maximizing value
+## **Workshop 2: Effective Prompting for Claude**
+
+[![Prompt Tips Video](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://youtu.be/NLg2kpBOG7w?si=vL6Jueas05a14g1Z)
+
+- **Introduction to Prompting (15 min)**
+  - Clarity, context, structure, examples
+  - Prompting vs. programming
+
+- **Demonstration (20 min)**
+  - Persona, Template, Recipe, Reasoning, Reflection patterns
+  - Before/after comparisons
+
+- **Hands-On Exercises (25 min)**
+  - Transforming vague prompts
+  - Building a personal prompt library
 
 ---
 
-### **Workshop 5: Best Practices and Advanced Techniques**
-- **Managing Model Agency (15 min)**
-  - Setting boundaries for AI decision-making
-  - Techniques for guiding AI responses effectively
-- **Effective Prompting Strategies (15 min)**
-  - Crafting clear, structured prompts
-  - Troubleshooting problematic outputs
+## **Workshop 3: Claude Code for Developers**
+
+- **Intro to Claude Code (15 min)**
+  - Claude Code vs. browser-based Claude
+  - Terminal integration, workflow, costs
+
+- **Demonstration (20 min)**
+  - Terminal setup + navigation
+
+- **Hands-On Exercise (25 min)**
+  - Exploring codebases
+  - Debugging + Git basics
+
+---
+
+## **Workshop 4: Introduction to Agentic AI** 
+
+- **Foundations (20 min)**
+  - Agent types, LLM roles, orchestration
+  - LangChain, LangGraph overview
+
+- **Live Demonstration (30 min)**
+  - Memory, reasoning, tool use
+  - ReAct & planning patterns
+
+- **Hands-On (35 min)**
+  - Build a basic agent
+  - Tool integration
+
+- **Q&A (5 min)**  
+  - Multi-agent systems & next steps
+
+---
+
+## **Workshop 5: Claude Enterprise for Education**
+
+- **Introduction (15 min)**
+  - Key features, privacy, integrations
+
+- **Case Studies (20 min)**
+  - University and K-12 deployments
+
+- **Discussion (25 min)**
+  - Implementation roadmap
+  - Cost strategies
+
+---
+
+## **Workshop 6: Best Practices & Advanced Techniques**
+
+- **Model Agency (15 min)**
+  - Guardrails for Claude
+
+- **Effective Prompting (15 min)**
+  - Troubleshooting & fine-tuning
+
 - **Avoiding Hallucinations (15 min)**
-  - Using context to ensure factual accuracy
-  - Verification strategies for AI-generated responses
-- **Q&A and Problem-Solving (15 min)**
-  - Addressing participant questions
-  - Sharing practical use cases
+  - Verification and context use
+
+- **Q&A (15 min)**
 
 ---
 
-### Workshop 5: AI-Powered Ideation with Claude 3.7 Sonnet Enterprise, Midjourney & Runway
+## **Workshop 7: AI-Powered Ideation with Claude, Midjourney & Runway**
 
-* **Introduction to AI-Powered Ideation Through Multimodal Content (15 min)**
-   * Overview of ideation workflows combining Claude 3.7 Sonnet Enterprise (concept development), Midjourney (visual ideation), and Runway (motion concept exploration)
-   * Ethical considerations and best practices for responsible ideation
+- **Intro to Multimodal Ideation (15 min)**
+  - Concept → Visual → Motion
 
-* **Demonstration: Integrated Ideation Workflows (20 min)**
-   * Using Claude 3.7 Sonnet Enterprise to develop and refine creative concepts
-   * Translating concepts into visual explorations with Midjourney
-   * Expanding ideas into motion and narrative using Runway
-   * Demonstrating feedback loops between tools for iterative ideation
+- **Live Demo (20 min)**
+  - Workflow from Claude → Midjourney → Runway
 
-* **Hands-on Exercise: Multi-dimensional Ideation (25 min)**
-   * Starting with concept generation in Claude 3.7 Sonnet Enterprise
-   * Crafting effective prompts to visualize concepts in Midjourney
-   * Extending ideation into motion and time with Runway
-   * Workshop: Applying this integrated ideation approach to academic research, product development, and professional projects
+- **Hands-On (25 min)**
+  - Concept → Image → Video ideation
+  - Apply to research & projects
+
 ---
 
 ## **Workshop Materials & Resources**
-### **Pre-Workshop Requirements**
-- Claude Enterprise access (provided by the university)
-- Claude Code installation (for coding sessions)
-- Basic understanding of prompt engineering
-- Midjourney and Runway accounts (forWorkshop 5)
 
-### **Takeaway Resources**
-- Prompt engineering templates
-- Best practices cheat sheet
-- Claude Enterprise integration guide
-- AI-generated content guidelines
-- Case studies on AI in education
+### Pre-Workshop Requirements
+- Claude Enterprise access (provided)
+- Claude Code installed (for dev sessions)
+- Basic prompt engineering knowledge
+- Midjourney & Runway accounts (Workshop 7)
 
-### **Expected Outcomes**
-By the end of this series, participants will:
-- Utilize **hybrid reasoning** effectively with Claude 3.7 Sonnet.
-- Optimize **coding workflows** using Claude Code.
-- Implement **Claude Enterprise** for academic and administrative success.
-- Apply **AI-driven prompting strategies** for diverse use cases.
-- Use **Midjourney and Runway** for AI-generated images and videos.
+### Takeaways
+- Prompt templates & cheat sheets  
+- Claude integration guide  
+- Best practices & use cases  
+- Educational case studies
 
-### **Follow-up Resources**
-- Community forum for ongoing discussions
-- Monthly office hours for support
-- Updated documentation and best practices
+### Outcomes
+- Master **hybrid reasoning**  
+- Optimize **coding with Claude Code**  
+- Deploy **Claude in educational settings**  
+- Build a **prompt pattern library**  
+- Ideate using **Midjourney & Runway**
 
-### Workshops
+---
 
-![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)  
+## 🌐 **Additional Links & Resources**
 
+![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)
 
-## Links
+###  [Humanitarians AI: Video](https://www.youtube.com/watch?v=feVnLBHuOAw)
 
-[![Huumanitarians AI](https://raw.githubusercontent.com/nikbearbrown/Humanitarians_AI/refs/heads/main/Art/Abhishek.png)](https://www.youtube.com/watch?v=feVnLBHuOAw)
+---
 
-### License  
+###  License
 
-This repository is licensed under [MIT License](LICENSE).  
+This repository is licensed under the [MIT License](LICENSE).
 
+---
 
+Let me know if you'd like a version of this as a webpage, flyer, or formatted PDF!
