@@ -4,6 +4,9 @@
 
 Large Language Models function by recognizing patterns in language. These systems learn how words typically fit together by analyzing vast amounts of text data from books, articles, and conversations. They don't truly understand meaning as humans do, but they recognize patterns so well they can predict which words should follow others, creating coherent text that appears meaningful.
 
+
+[![Video: Bear Brown's Prompt Tips](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Claude/Workshop_Two/Artwork/aroawqgicnc.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 ## From Code to Conversation: A New Paradigm
 
 Unlike traditional programming languages that require absolute precision with every symbol and command, prompt engineering offers a revolutionary approach to human-computer interaction. 
