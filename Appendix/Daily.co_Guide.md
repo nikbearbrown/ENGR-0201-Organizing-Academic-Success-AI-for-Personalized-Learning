@@ -25,20 +25,32 @@ The **Daily.co** platform provides a scalable, open-source solution for building
 ### Step 1: Sign Up & Access Dashboard
 1. Navigate to [Daily AI](https://www.daily.co/ai/) and **sign up** for an account.
 2. Click **Start Building** and select **Daily Bots AI** to access the AI dashboard.
+   ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co0.png)
+     ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co9.png)
+  ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co1.png)
 
 ### Step 2: Exploring the Dashboard
 The dashboard consists of several key sections:
 - **Get Started**: Initial setup steps, including API key registration.
+-   ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co3.png)
+  ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co4.png)
 - **Playground**: Experiment with bot configurations and fine-tune responses.
 - **Phones**: Manage virtual phone numbers for AI bots and integrate telephony services.
 - **Sessions**: Track interactions with AI agents, analyze performance, and review logs.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co4.png)
 - **Logs**: Monitor bot activity and debug potential issues.
 - **API Keys**: Generate and manage API keys for integrations.
 - **Billing**: Manage subscription, payment details, and track usage costs.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co6.png)
 - **Overview**: Get a snapshot of all live and past sessions, participant usage, and cloud metrics in one place.
 - **Recordings**: Explore cloud and local recording capabilities, and upgrade with a $15 trial credit for advanced features.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co5.png)
 - **Settings**: Manage team members, preferences, and access control from one centralized interface.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co8.png)
 - **Developers**: View and manage API keys, logs, and HIPAA compliance settings with a clean, developer-focused UI.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co7.png)
+  ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Daily.co2.png)
+
 
 ---
 
