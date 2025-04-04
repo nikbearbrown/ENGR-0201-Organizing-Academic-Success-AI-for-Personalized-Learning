@@ -112,7 +112,7 @@ Instead of being spoon-fed correct answers, DeepSeek learns by trial and error�
 
 ### **Group Relative Policy Optimization: Smarter Learning**
 DeepSeek refines its learning through an algorithm called **Group Relative Policy Optimization (GRPO)**, which is just a fancy way of saying it improves itself **without needing an enormous separate AI to judge its answers**. That makes its training process **way more efficient** than OpenAI’s methods.
-DeepSeek refines its learning through an algorithm called **Group Relative Policy Optimization (GRPO)**, which is just a fancy way of saying it improves itself without needing an enormous separate AI to judge its answers. That makes its training process way more efficient than OpenAI’s methods.
+
 
 ## GRPO Equation
 
