@@ -9,6 +9,29 @@ This notebook demonstrates how to fine-tune a 3B parameter language model on ins
 
 While this guide uses W&B for experiment tracking, other alternatives include MLflow, TensorBoard, and Neptune.ai.
 
+## Prerequisites: W&B Account Setup
+
+Before running this notebook, you'll need a Weights & Biases (W&B) account and API key:
+
+1. **Create a W&B account** if you don't have one already:
+   - Go to [wandb.ai/signup](https://wandb.ai/signup)
+   - The free tier includes unlimited public projects and 100GB of artifact storage
+
+2. **Get your API key**:
+   - Log in to W&B
+   - Click your profile icon in the top-right corner
+   - Select "Settings"
+   - Scroll to the "API keys" section
+   - Copy your existing key or create a new one
+
+3. **Use your API key**:
+   - When prompted with "wandb: Paste an API key from your profile and hit enter:", paste your key
+   - Alternatively, you can set it programmatically before running any W&B code:
+   ```python
+   import os
+   os.environ["WANDB_API_KEY"] = "your-api-key-here"  # Replace with your actual key
+   ```
+
 ## 1. Installation and Setup
 
 First, we need to install all the necessary libraries to support our fine-tuning workflow:
