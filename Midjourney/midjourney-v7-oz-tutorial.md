@@ -1,4 +1,4 @@
-# Creating a Modern Oz Manga: Ultimate Midjourney V7 Tutorial
+# Creating a Modern Oz Manga and Film Storyboard: Ultimate Midjourney V7 Tutorial
 
 This comprehensive tutorial will guide you through using Midjourney V7's powerful new features to create a manga-style storyboard for an animated film featuring a 27-year-old Dorothy returning to Oz. We'll leverage V7's Draft Mode, character creation, voice commands, and personalization features to rapidly iterate and build a cohesive visual narrative.
 
