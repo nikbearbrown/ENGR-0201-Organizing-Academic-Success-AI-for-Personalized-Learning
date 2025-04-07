@@ -1,6 +1,13 @@
 # Creating a Modern Oz Manga and Film Storyboard: Ultimate Midjourney V7 Tutorial
 
-This comprehensive tutorial will guide you through using Midjourney V7's powerful new features to create a manga-style storyboard for an animated film featuring a 27-year-old Dorothy returning to Oz. We'll leverage V7's Draft Mode, character creation, voice commands, and style flexibility to rapidly build a cohesive visual narrative.
+The new Midjourney V7 is insane. I'm writing this comprehensive tutorial on how kids and adults can use it to create their own fanfiction, manga and film storyboards. This guide will show you how to leverage V7's powerful new features to create a manga-style storyboard for an animated film featuring a 27-year-old Dorothy returning to Oz.
+
+Job seekers can use these techniques to create comic books detailing their personal journeys and stories. The creative possibilities are endless, whether you're a seasoned artist or a complete beginner.
+
+This tutorial is still in draft form. You can find the current version at:
+[https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/Midjourney/midjourney-v7-oz-tutorial.md](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/Midjourney/midjourney-v7-oz-tutorial.md)    
+
+We'll explore how to use Draft Mode, character creation, voice commands, and style flexibility to rapidly build a cohesive visual narrative that could serve as the foundation for your own animated projects.
 
 ## Setting Up Your Midjourney V7 Workspace
 
