@@ -1,6 +1,5 @@
 ### Assignment: **Build Your CustomGPT**
 
----
 
 #### **Objective**  
 Create a functional CustomGPT tailored to a specific use case of your team’s choice from the provided examples. Your CustomGPT should follow a structured design process, implementing prompts, workflows, and features to align with its intended purpose. Teams can implement the CustomGPT in ChatGPT Pro if available or submit a detailed prompt system if implementation is not possible.
